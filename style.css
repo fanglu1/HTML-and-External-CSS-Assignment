@@ -7,11 +7,22 @@ color: white;
   color: white;
 }
 
-.NavBar {
+.topnav {
   background-color: #333;
   color: white;
 }
 
-.Images {
-  ;
+.Login {
+  background-color: #333;
+  color: white
+}
+
+.Search {
+  background-color: #333;
+  color: white
+}
+
+.icon {
+  background-color: #333;
+  color: white
 }
