@@ -2,27 +2,36 @@ nav {
 color: white;
 }
 
-.Logo {
-  background-color: #333;
-  color: white;
+.flex-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.topnav {
-  background-color: #333;
+.Logo {
+  background-color: purple;
   color: white;
+  display: flex;
+  padding: ;
+  font-size: 50px;
+  }
+
+.topnav {
+  background-color: black;
+  color: white;
+  display: flex;
+  list-style-type: none;
+  padding: 30px;
 }
 
 .Login {
-  background-color: #333;
+  background-color: black;
   color: white
+  padding: px;
 }
 
-.Search {
-  background-color: #333;
-  color: white
-}
 
-.icon {
-  background-color: #333;
-  color: white
-}
+
+
+
+
