@@ -1,11 +1,17 @@
-body {
-    margin: 0;
-    background: #222;
-    font-family: serif;
-    font-weight: 300;
+nav {
+color: white;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
+.Logo {
+  background-color: #333;
+  color: white;
+}
+
+.NavBar {
+  background-color: #333;
+  color: white;
+}
+
+.Images {
+  ;
 }
